@@ -13,8 +13,5 @@ The MicroTrigger Examples is dependent on the [MicroTrigger Framework](https://g
 
 The MicroTrigger Examples project has 2 artifacts: 
 
-* Common
-This artifact contains the common components (Schema, Layouts, Objects Profiles and Apex Triggers). 
-
-* Rollups
-This artifact some examples of Rollups logic. In this example, we create some rollup trigger logic from Payment Object to Opportunity and Account. 
+* Rollups: This artifact some examples of Rollups logic. In this example, we create some rollup trigger logic from Payment Object to Opportunity and Account. 
+* Common: This artifact contains the common components (Schema, Layouts, Objects Profiles and Apex Triggers).
