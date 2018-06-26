@@ -1,0 +1,7 @@
+{
+    "orgName": "MicroTrigger-Examples",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
